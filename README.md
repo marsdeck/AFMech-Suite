@@ -47,4 +47,4 @@ For information on deployment terminology, go to
 http://www.mathworks.com/help. Select MATLAB Compiler >   
 Getting Started > About Application Deployment >
 Deployment Product Terms in the MathWorks Documentation
-Center.
+Center
